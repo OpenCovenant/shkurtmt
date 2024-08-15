@@ -50,6 +50,9 @@
   "blet.": [
     "bletari"
   ],
+  "bln": [
+    "bilion"
+  ],
   "botan.": [
     "botanikë"
   ],
@@ -193,6 +196,9 @@
   ],
   "ml": [
     "mililitër"
+  ],
+  "mln": [
+    "milion"
   ],
   "mm": [
     "milimetër"
