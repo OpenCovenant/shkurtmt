@@ -1,15 +1,27 @@
 {
+  "aer.": [
+    "aeronautikë"
+  ],
   "anat.": [
     "anatomi"
   ],
   "angl.": [
     "anglisht"
   ],
+  "antr.": [
+    "antropologji"
+  ],
   "antrop.": [
     "antropologjia"
   ],
   "arb.": [
     "arbëresh"
+  ],
+  "ark.": [
+    "arkitekturë"
+  ],
+  "arkeo.": [
+    "arkeologji"
   ],
   "arkeol.": [
     "arkeologji"
@@ -23,6 +35,12 @@
   "astronaut.": [
     "astronautika"
   ],
+  "aut.": [
+    "automobilizëm"
+  ],
+  "av.": [
+    "aviacion"
+  ],
   "aviac.": [
     "aviacion"
   ],
@@ -35,11 +53,17 @@
   "biol.": [
     "biologji"
   ],
+  "bis.": [
+    "bisedor"
+  ],
   "bised.": [
     "bisedore"
   ],
   "blet.": [
     "bletari"
+  ],
+  "bot.": [
+    "botanikë"
   ],
   "botan.": [
     "botanikë"
@@ -65,20 +89,50 @@
   "dt.": [
     "data"
   ],
+  "dëft.": [
+    "dëftor"
+  ],
+  "ek.": [
+    "ekonomi"
+  ],
   "eko.": [
     "ekonomi"
   ],
   "elektr.": [
     "elektroteknika"
   ],
+  "em.": [
+    "emër"
+  ],
   "etj.": [
     "e të tjera"
+  ],
+  "etn.": [
+    "etnografi"
   ],
   "etnogr.": [
     "etnografia"
   ],
   "euf.": [
     "euforizmi"
+  ],
+  "fet.": [
+    "fetar"
+  ],
+  "fig.": [
+    "figurativ"
+  ],
+  "fil.": [
+    "filozofi"
+  ],
+  "fin.": [
+    "financë"
+  ],
+  "fiz.": [
+    "fizikë"
+  ],
+  "fizio.": [
+    "fiziologji"
   ],
   "fiziol.": [
     "fiziologjia"
@@ -89,8 +143,17 @@
   "fr.": [
     "frengjisht"
   ],
+  "gjeog.": [
+    "gjeografi"
+  ],
   "gjeol.": [
     "gjeologjia"
+  ],
+  "gjeom.": [
+    "gjeometri"
+  ],
+  "gjuh.": [
+    "gjuhësi"
   ],
   "hidrol.": [
     "hidrologjia"
@@ -98,11 +161,29 @@
   "hidrotek.": [
     "hidroteknika"
   ],
+  "hist.": [
+    "histori"
+  ],
+  "inf.": [
+    "informatikë"
+  ],
+  "iron.": [
+    "ironik"
+  ],
   "jokal.": [
     "jokalimtare"
   ],
+  "kal.": [
+    "kalimtare"
+  ],
+  "keq.": [
+    "keqësues"
+  ],
   "kg": [
     "kilogram"
+  ],
+  "kim.": [
+    "kimi"
   ],
   "kinem.": [
     "kinematografia"
@@ -110,8 +191,29 @@
   "km": [
     "kilometër"
   ],
+  "krahin.": [
+    "krahinorizëm"
+  ],
+  "lidh.": [
+    "lidhëz"
+  ],
+  "mat.": [
+    "matematikë"
+  ],
+  "mb.": [
+    "mbiemër"
+  ],
+  "meteo.": [
+    "meteorologji"
+  ],
   "mg": [
     "miligram"
+  ],
+  "mit.": [
+    "mitologji"
+  ],
+  "mjek.": [
+    "mjekësi"
   ],
   "ml": [
     "mililitër"
@@ -122,14 +224,77 @@
   "n.q.s.": [
     "në qoftë se"
   ],
+  "ndajf.": [
+    "ndajfolje"
+  ],
   "nqs": [
     "në qoftë se"
+  ],
+  "num.": [
+    "numër"
   ],
   "p.e.s.": [
     "para erës sonë"
   ],
   "p.sh.": [
     "për shembull"
+  ],
+  "parafj.": [
+    "parafjalë"
+  ],
+  "parasht.": [
+    "parashtesë"
+  ],
+  "pasth.": [
+    "pasthirrmë"
+  ],
+  "pj.": [
+    "pjesëz"
+  ],
+  "pol.": [
+    "politikë"
+  ],
+  "pron.": [
+    "pronor"
+  ],
+  "psik.": [
+    "psikologji"
+  ],
+  "pyet.": [
+    "pyetës"
+  ],
+  "përem.": [
+    "përemër"
+  ],
+  "radio.": [
+    "radioteknikë"
+  ],
+  "shkurt.": [
+    "shkurtim"
+  ],
+  "shtyp.": [
+    "shtypshkronjë"
+  ],
+  "teks.": [
+    "tekstil"
+  ],
+  "topog.": [
+    "topografi"
+  ],
+  "usht.": [
+    "ushtarak"
+  ],
+  "vet.": [
+    "veterinari"
+  ],
+  "vetv.": [
+    "vetvetor"
+  ],
+  "vjet.": [
+    "vjetëruar"
+  ],
+  "vulg.": [
+    "vulgar"
   ],
   "z.": [
     "zoti"
